@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D64279D-8212-4D74-BEE6-FC48914100E2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HotelProyecto</RootNamespace>
+    <AssemblyName>HotelProyecto</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alimento.cs" />
+    <Compile Include="BaseDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseDatos.Designer.cs">
+      <DependentUpon>BaseDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bebida.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Check out.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Check out.Designer.cs">
+      <DependentUpon>Check out.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenú.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenú.Designer.cs">
+      <DependentUpon>FormMenú.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTarjeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTarjeta.Designer.cs">
+      <DependentUpon>FormTarjeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCheck-In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCheck-In.Designer.cs">
+      <DependentUpon>FormCheck-In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HabitacionesDataSet.cs">
+      <DependentUpon>HabitacionesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HabitacionesDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HabitacionesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IPago.cs" />
+    <Compile Include="Noches.cs" />
+    <Compile Include="NumPersonas.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BaseDatos.resx">
+      <DependentUpon>BaseDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Check out.resx">
+      <DependentUpon>Check out.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCheck-In.resx">
+      <DependentUpon>FormCheck-In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenú.resx">
+      <DependentUpon>FormMenú.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTarjeta.resx">
+      <DependentUpon>FormTarjeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="HabitacionesDataSet.xsc">
+      <DependentUpon>HabitacionesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HabitacionesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HabitacionesDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HabitacionesDataSet.xss">
+      <DependentUpon>HabitacionesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bienvenidos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bienvenidos %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-beach-cartoon-stock-illustration-clip-art-beach-beach-5a84cdd19b7536.6658667615186528816368.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41iHuC56O5L._SX425_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_61355961-stock-illustration-menu-template.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18028471-menú-plantilla-de-diseño.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elipse-rojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gracias.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a5543288429d4df28f62ecef492efcf3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-macelleria1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Habitaciones.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Proyecto 3.2 UuUr\Proyecto 3.0\LibMoneda\LibMoneda.csproj">
+      <Project>{ac08c0da-d32b-4fa7-9320-fd90ec5c7fba}</Project>
+      <Name>LibMoneda</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

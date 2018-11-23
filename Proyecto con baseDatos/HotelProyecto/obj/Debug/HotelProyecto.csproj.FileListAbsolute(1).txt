@@ -1,0 +1,23 @@
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.Form1.resources
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.Form1.resources
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.FormTarjeta.resources
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProyecto", "HotelProyecto\HotelProyecto.csproj", "{5D64279D-8212-4D74-BEE6-FC48914100E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMoneda", "..\Proyecto 3.2 UuUr\Proyecto 3.0\LibMoneda\LibMoneda.csproj", "{AC08C0DA-D32B-4FA7-9320-FD90EC5C7FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D64279D-8212-4D74-BEE6-FC48914100E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D64279D-8212-4D74-BEE6-FC48914100E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D64279D-8212-4D74-BEE6-FC48914100E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D64279D-8212-4D74-BEE6-FC48914100E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC08C0DA-D32B-4FA7-9320-FD90EC5C7FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC08C0DA-D32B-4FA7-9320-FD90EC5C7FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC08C0DA-D32B-4FA7-9320-FD90EC5C7FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC08C0DA-D32B-4FA7-9320-FD90EC5C7FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D528E3-3221-4587-B95B-7897FE624E2A}
+	EndGlobalSection
+EndGlobal

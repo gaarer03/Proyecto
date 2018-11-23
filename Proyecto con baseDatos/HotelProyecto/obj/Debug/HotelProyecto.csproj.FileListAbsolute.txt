@@ -1,0 +1,88 @@
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.Form1.resources
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\alumnos\Desktop\alumno04\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.Form1.resources
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.FormTarjeta.resources
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\HotelProyecto\HotelProyecto\obj\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.Form1.resources
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.FormMenú.resources
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.FormTarjeta.resources
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\PROYECTO 2.0\HotelProyecto\obj\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.Form1.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.FormMenú.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.FormTarjeta.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.pdb
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.Form2.resources
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.Form1.resources
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.FormMenú.resources
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.FormTarjeta.resources
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.pdb
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\Perla\Documents\TecPrograma\ETAPA 3\Proyecto 3.0\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.Form2.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\bin\Debug\Habitaciones.mdb
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.BaseDatos.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\bin\Debug\LibMoneda.dll
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\bin\Debug\LibMoneda.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto 3.0\HotelProyecto\obj\Debug\HotelProyecto.csproj.CopyComplete
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\bin\Debug\Habitaciones.mdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\bin\Debug\LibMoneda.dll
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\bin\Debug\LibMoneda.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.BaseDatos.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.Form2.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.Form1.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.FormMenú.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.FormTarjeta.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csproj.CopyComplete
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.pdb
