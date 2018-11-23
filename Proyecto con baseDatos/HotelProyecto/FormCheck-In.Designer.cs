@@ -36,10 +36,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.txtbEfectivo = new System.Windows.Forms.TextBox();
-            this.rdbEfectivo = new System.Windows.Forms.RadioButton();
-            this.rdbTarjetacredito = new System.Windows.Forms.RadioButton();
-            this.label12 = new System.Windows.Forms.Label();
             this.lbTotalPagar = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.rbtnNo = new System.Windows.Forms.RadioButton();
@@ -54,14 +50,14 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.cmbTipo = new System.Windows.Forms.ComboBox();
+            this.label9 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
             // 
@@ -116,7 +112,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe Print", 9F);
-            this.label2.Location = new System.Drawing.Point(75, 266);
+            this.label2.Location = new System.Drawing.Point(65, 277);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(153, 21);
             this.label2.TabIndex = 30;
@@ -132,59 +128,15 @@
             this.label1.TabIndex = 31;
             this.label1.Text = "Número de personas";
             // 
-            // txtbEfectivo
-            // 
-            this.txtbEfectivo.Font = new System.Drawing.Font("Segoe Print", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtbEfectivo.Location = new System.Drawing.Point(522, 410);
-            this.txtbEfectivo.Name = "txtbEfectivo";
-            this.txtbEfectivo.Size = new System.Drawing.Size(148, 27);
-            this.txtbEfectivo.TabIndex = 42;
-            this.txtbEfectivo.Visible = false;
-            // 
-            // rdbEfectivo
-            // 
-            this.rdbEfectivo.AutoSize = true;
-            this.rdbEfectivo.Font = new System.Drawing.Font("Segoe Print", 9F);
-            this.rdbEfectivo.Location = new System.Drawing.Point(350, 409);
-            this.rdbEfectivo.Name = "rdbEfectivo";
-            this.rdbEfectivo.Size = new System.Drawing.Size(75, 25);
-            this.rdbEfectivo.TabIndex = 43;
-            this.rdbEfectivo.TabStop = true;
-            this.rdbEfectivo.Text = "Efectivo";
-            this.rdbEfectivo.UseVisualStyleBackColor = true;
-            // 
-            // rdbTarjetacredito
-            // 
-            this.rdbTarjetacredito.AutoSize = true;
-            this.rdbTarjetacredito.Font = new System.Drawing.Font("Segoe Print", 9F);
-            this.rdbTarjetacredito.Location = new System.Drawing.Point(350, 386);
-            this.rdbTarjetacredito.Name = "rdbTarjetacredito";
-            this.rdbTarjetacredito.Size = new System.Drawing.Size(140, 25);
-            this.rdbTarjetacredito.TabIndex = 44;
-            this.rdbTarjetacredito.TabStop = true;
-            this.rdbTarjetacredito.Text = "Tarjeta de Credito";
-            this.rdbTarjetacredito.UseVisualStyleBackColor = true;
-            this.rdbTarjetacredito.CheckedChanged += new System.EventHandler(this.rdbTarjetacredito_CheckedChanged);
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Segoe Print", 9F);
-            this.label12.Location = new System.Drawing.Point(371, 364);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(108, 21);
-            this.label12.TabIndex = 41;
-            this.label12.Text = "Método de pago";
-            // 
             // lbTotalPagar
             // 
             this.lbTotalPagar.AutoSize = true;
             this.lbTotalPagar.Font = new System.Drawing.Font("Segoe Print", 9F);
-            this.lbTotalPagar.Location = new System.Drawing.Point(557, 500);
+            this.lbTotalPagar.Location = new System.Drawing.Point(564, 500);
             this.lbTotalPagar.Name = "lbTotalPagar";
-            this.lbTotalPagar.Size = new System.Drawing.Size(46, 21);
+            this.lbTotalPagar.Size = new System.Drawing.Size(55, 21);
             this.lbTotalPagar.TabIndex = 39;
-            this.lbTotalPagar.Text = "1000";
+            this.lbTotalPagar.Text = "10000";
             // 
             // label7
             // 
@@ -200,19 +152,20 @@
             // 
             this.rbtnNo.AutoSize = true;
             this.rbtnNo.Font = new System.Drawing.Font("Segoe Print", 9F);
-            this.rbtnNo.Location = new System.Drawing.Point(212, 406);
+            this.rbtnNo.Location = new System.Drawing.Point(535, 408);
             this.rbtnNo.Name = "rbtnNo";
             this.rbtnNo.Size = new System.Drawing.Size(48, 25);
             this.rbtnNo.TabIndex = 47;
             this.rbtnNo.TabStop = true;
             this.rbtnNo.Text = "No.";
             this.rbtnNo.UseVisualStyleBackColor = true;
+            this.rbtnNo.CheckedChanged += new System.EventHandler(this.rbtnNo_CheckedChanged);
             // 
             // rbtnSi
             // 
             this.rbtnSi.AutoSize = true;
             this.rbtnSi.Font = new System.Drawing.Font("Segoe Print", 9F);
-            this.rbtnSi.Location = new System.Drawing.Point(79, 406);
+            this.rbtnSi.Location = new System.Drawing.Point(349, 406);
             this.rbtnSi.Name = "rbtnSi";
             this.rbtnSi.Size = new System.Drawing.Size(42, 25);
             this.rbtnSi.TabIndex = 46;
@@ -226,7 +179,7 @@
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Segoe Print", 9F);
-            this.label6.Location = new System.Drawing.Point(76, 364);
+            this.label6.Location = new System.Drawing.Point(76, 408);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(206, 21);
             this.label6.TabIndex = 45;
@@ -325,16 +278,6 @@
             this.pictureBox5.TabIndex = 52;
             this.pictureBox5.TabStop = false;
             // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Image = global::HotelProyecto.Properties.Resources.a5543288429d4df28f62ecef492efcf3;
-            this.pictureBox6.Location = new System.Drawing.Point(-2, 123);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(697, 436);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox6.TabIndex = 54;
-            this.pictureBox6.TabStop = false;
-            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(260, 255);
@@ -355,11 +298,33 @@
             this.pictureBox3.TabIndex = 48;
             this.pictureBox3.TabStop = false;
             // 
+            // cmbTipo
+            // 
+            this.cmbTipo.FormattingEnabled = true;
+            this.cmbTipo.Location = new System.Drawing.Point(270, 346);
+            this.cmbTipo.Name = "cmbTipo";
+            this.cmbTipo.Size = new System.Drawing.Size(121, 21);
+            this.cmbTipo.TabIndex = 58;
+            this.cmbTipo.SelectedIndexChanged += new System.EventHandler(this.cmbTipo_SelectedIndexChanged);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Segoe Print", 9F);
+            this.label9.Location = new System.Drawing.Point(65, 346);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(124, 21);
+            this.label9.TabIndex = 30;
+            this.label9.Text = "Tipo de Habitación";
+            // 
             // FormCheck_In
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::HotelProyecto.Properties.Resources.a5543288429d4df28f62ecef492efcf3;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(689, 564);
+            this.Controls.Add(this.cmbTipo);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.CmbNoches);
             this.Controls.Add(this.label3);
@@ -372,10 +337,6 @@
             this.Controls.Add(this.rbtnNo);
             this.Controls.Add(this.rbtnSi);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.txtbEfectivo);
-            this.Controls.Add(this.rdbEfectivo);
-            this.Controls.Add(this.rdbTarjetacredito);
-            this.Controls.Add(this.label12);
             this.Controls.Add(this.lbTotalPagar);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.cmbNumPersonas);
@@ -383,18 +344,18 @@
             this.Controls.Add(this.lbNumPersonas);
             this.Controls.Add(this.lbNumHabitacion);
             this.Controls.Add(this.label4);
+            this.Controls.Add(this.label9);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox5);
-            this.Controls.Add(this.pictureBox6);
+            this.DoubleBuffered = true;
             this.Name = "FormCheck_In";
             this.Text = "Check_In";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -411,10 +372,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtbEfectivo;
-        private System.Windows.Forms.RadioButton rdbEfectivo;
-        private System.Windows.Forms.RadioButton rdbTarjetacredito;
-        private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label lbTotalPagar;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.RadioButton rbtnNo;
@@ -426,10 +383,11 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.ComboBox CmbNoches;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.ComboBox cmbTipo;
+        private System.Windows.Forms.Label label9;
     }
 }

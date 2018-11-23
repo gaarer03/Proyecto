@@ -102,6 +102,7 @@ namespace HotelProyecto
             float TPagar = float.Parse(lbTOTAL.Text);
             FormTarjeta formTarjeta = new FormTarjeta(TPagar);
             formTarjeta.Show();
+            this.Close();
         }
     }
 }

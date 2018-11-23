@@ -29,17 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMenú));
-            this.lbTOTAL = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.lbTotalMenu = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.dvgPedidos = new System.Windows.Forms.DataGridView();
             this.ColumnaAlimento = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumnaCantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -50,6 +39,17 @@
             this.cmbAlimentos = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.label24 = new System.Windows.Forms.Label();
+            this.label27 = new System.Windows.Forms.Label();
+            this.lbTotalMenu = new System.Windows.Forms.Label();
+            this.lbTOTAL = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
@@ -74,129 +74,15 @@
             this.label9 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.dvgPedidos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dvgPedidos)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // lbTOTAL
-            // 
-            this.lbTOTAL.AutoSize = true;
-            this.lbTOTAL.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.lbTOTAL.Location = new System.Drawing.Point(522, 534);
-            this.lbTOTAL.Name = "lbTOTAL";
-            this.lbTOTAL.Size = new System.Drawing.Size(32, 17);
-            this.lbTOTAL.TabIndex = 50;
-            this.lbTOTAL.Text = "000";
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.label30.Location = new System.Drawing.Point(378, 534);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(72, 17);
-            this.label30.TabIndex = 49;
-            this.label30.Text = "Total      $";
-            // 
-            // lbTotalMenu
-            // 
-            this.lbTotalMenu.AutoSize = true;
-            this.lbTotalMenu.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.lbTotalMenu.Location = new System.Drawing.Point(257, 605);
-            this.lbTotalMenu.Name = "lbTotalMenu";
-            this.lbTotalMenu.Size = new System.Drawing.Size(32, 17);
-            this.lbTotalMenu.TabIndex = 48;
-            this.lbTotalMenu.Text = "000";
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.label27.Location = new System.Drawing.Point(119, 605);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(132, 17);
-            this.label27.TabIndex = 47;
-            this.label27.Text = "SubTotal  Menú    $";
-            // 
-            // label24
-            // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.label24.Location = new System.Drawing.Point(84, 135);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(97, 17);
-            this.label24.TabIndex = 46;
-            this.label24.Text = "SubTotal      $";
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = global::HotelProyecto.Properties.Resources.menu_macelleria1;
-            this.pictureBox5.Location = new System.Drawing.Point(260, 20);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(195, 73);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 45;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(543, 0);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(134, 113);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 43;
-            this.pictureBox4.TabStop = false;
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.label25.Font = new System.Drawing.Font("Impact", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.ForeColor = System.Drawing.Color.Black;
-            this.label25.Location = new System.Drawing.Point(31, 63);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(162, 25);
-            this.label25.TabIndex = 44;
-            this.label25.Text = "Suites and Resorts";
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.label26.Font = new System.Drawing.Font("Impact", 31.75F);
-            this.label26.ForeColor = System.Drawing.Color.Black;
-            this.label26.Location = new System.Drawing.Point(13, 20);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(206, 53);
-            this.label26.TabIndex = 42;
-            this.label26.Text = "HOTEL  ACA";
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(12, 176);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(158, 96);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 41;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(12, 278);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(158, 83);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 40;
-            this.pictureBox2.TabStop = false;
             // 
             // dvgPedidos
             // 
@@ -206,10 +92,11 @@
             this.ColumnaAlimento,
             this.ColumnaCantidad,
             this.ColumnaPrecio});
-            this.dvgPedidos.Location = new System.Drawing.Point(12, 423);
+            this.dvgPedidos.Location = new System.Drawing.Point(11, 426);
             this.dvgPedidos.Name = "dvgPedidos";
             this.dvgPedidos.Size = new System.Drawing.Size(348, 177);
-            this.dvgPedidos.TabIndex = 39;
+            this.dvgPedidos.TabIndex = 19;
+            this.dvgPedidos.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dvgPedidos_CellDoubleClick);
             // 
             // ColumnaAlimento
             // 
@@ -230,54 +117,171 @@
             // 
             this.lbsubTotal.AutoSize = true;
             this.lbsubTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.lbsubTotal.Location = new System.Drawing.Point(187, 135);
+            this.lbsubTotal.Location = new System.Drawing.Point(186, 138);
             this.lbsubTotal.Name = "lbsubTotal";
             this.lbsubTotal.Size = new System.Drawing.Size(32, 17);
-            this.lbsubTotal.TabIndex = 38;
+            this.lbsubTotal.TabIndex = 18;
             this.lbsubTotal.Text = "000";
             // 
             // btnPagar
             // 
-            this.btnPagar.Location = new System.Drawing.Point(578, 574);
+            this.btnPagar.Location = new System.Drawing.Point(577, 577);
             this.btnPagar.Name = "btnPagar";
             this.btnPagar.Size = new System.Drawing.Size(98, 45);
-            this.btnPagar.TabIndex = 37;
+            this.btnPagar.TabIndex = 16;
             this.btnPagar.Text = "PAGAR";
             this.btnPagar.UseVisualStyleBackColor = true;
+            this.btnPagar.Click += new System.EventHandler(this.btnPagar_Click);
             // 
             // cmbBebidas
             // 
             this.cmbBebidas.FormattingEnabled = true;
-            this.cmbBebidas.Location = new System.Drawing.Point(433, 427);
+            this.cmbBebidas.Location = new System.Drawing.Point(432, 430);
             this.cmbBebidas.Name = "cmbBebidas";
             this.cmbBebidas.Size = new System.Drawing.Size(121, 21);
-            this.cmbBebidas.TabIndex = 35;
+            this.cmbBebidas.TabIndex = 14;
+            this.cmbBebidas.SelectedIndexChanged += new System.EventHandler(this.cmbBebidas_SelectedIndexChanged);
             // 
             // cmbAlimentos
             // 
             this.cmbAlimentos.FormattingEnabled = true;
-            this.cmbAlimentos.Location = new System.Drawing.Point(433, 475);
+            this.cmbAlimentos.Location = new System.Drawing.Point(432, 478);
             this.cmbAlimentos.Name = "cmbAlimentos";
             this.cmbAlimentos.Size = new System.Drawing.Size(121, 21);
-            this.cmbAlimentos.TabIndex = 36;
+            this.cmbAlimentos.TabIndex = 15;
+            this.cmbAlimentos.SelectedIndexChanged += new System.EventHandler(this.cmbAlimentos_SelectedIndexChanged);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(381, 427);
+            this.label2.Location = new System.Drawing.Point(380, 430);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(45, 13);
-            this.label2.TabIndex = 33;
+            this.label2.TabIndex = 12;
             this.label2.Text = "Bebidas";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(374, 475);
+            this.label1.Location = new System.Drawing.Point(373, 478);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(52, 13);
-            this.label1.TabIndex = 34;
+            this.label1.TabIndex = 13;
             this.label1.Text = "Alimentos";
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.label25.Font = new System.Drawing.Font("Impact", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label25.ForeColor = System.Drawing.Color.Black;
+            this.label25.Location = new System.Drawing.Point(30, 66);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(162, 25);
+            this.label25.TabIndex = 24;
+            this.label25.Text = "Suites and Resorts";
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.label26.Font = new System.Drawing.Font("Impact", 31.75F);
+            this.label26.ForeColor = System.Drawing.Color.Black;
+            this.label26.Location = new System.Drawing.Point(12, 23);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(206, 53);
+            this.label26.TabIndex = 22;
+            this.label26.Text = "HOTEL  ACA";
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label24.Location = new System.Drawing.Point(83, 138);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(97, 17);
+            this.label24.TabIndex = 26;
+            this.label24.Text = "SubTotal      $";
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label27.Location = new System.Drawing.Point(118, 608);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(132, 17);
+            this.label27.TabIndex = 27;
+            this.label27.Text = "SubTotal  Menú    $";
+            // 
+            // lbTotalMenu
+            // 
+            this.lbTotalMenu.AutoSize = true;
+            this.lbTotalMenu.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.lbTotalMenu.Location = new System.Drawing.Point(256, 608);
+            this.lbTotalMenu.Name = "lbTotalMenu";
+            this.lbTotalMenu.Size = new System.Drawing.Size(32, 17);
+            this.lbTotalMenu.TabIndex = 28;
+            this.lbTotalMenu.Text = "000";
+            // 
+            // lbTOTAL
+            // 
+            this.lbTOTAL.AutoSize = true;
+            this.lbTOTAL.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.lbTOTAL.Location = new System.Drawing.Point(521, 537);
+            this.lbTOTAL.Name = "lbTOTAL";
+            this.lbTOTAL.Size = new System.Drawing.Size(32, 17);
+            this.lbTOTAL.TabIndex = 30;
+            this.lbTOTAL.Text = "000";
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label30.Location = new System.Drawing.Point(377, 537);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(72, 17);
+            this.label30.TabIndex = 29;
+            this.label30.Text = "Total      $";
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::HotelProyecto.Properties.Resources.menu_macelleria1;
+            this.pictureBox5.Location = new System.Drawing.Point(259, 23);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(195, 73);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 25;
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(542, 3);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(134, 113);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 23;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(11, 179);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(158, 96);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 21;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(11, 281);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(158, 83);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 20;
+            this.pictureBox2.TabStop = false;
             // 
             // groupBox1
             // 
@@ -297,10 +301,10 @@
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Font = new System.Drawing.Font("Segoe Print", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.groupBox1.Location = new System.Drawing.Point(176, 162);
+            this.groupBox1.Location = new System.Drawing.Point(175, 165);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(500, 199);
-            this.groupBox1.TabIndex = 32;
+            this.groupBox1.TabIndex = 11;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "MENÚ";
             // 
@@ -520,18 +524,18 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::HotelProyecto.Properties.Resources.menu;
-            this.pictureBox1.Location = new System.Drawing.Point(-1, 119);
+            this.pictureBox1.Location = new System.Drawing.Point(-2, 122);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(691, 516);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 31;
+            this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
             // 
             // FormMenú
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(688, 634);
+            this.ClientSize = new System.Drawing.Size(716, 638);
             this.Controls.Add(this.lbTOTAL);
             this.Controls.Add(this.label30);
             this.Controls.Add(this.lbTotalMenu);
@@ -553,12 +557,12 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "FormMenú";
-            this.Text = "FormMenú";
+            this.Text = "Mneú";
+            ((System.ComponentModel.ISupportInitialize)(this.dvgPedidos)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dvgPedidos)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
@@ -570,18 +574,7 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Label lbTOTAL;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Label lbTotalMenu;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.DataGridView dvgPedidos;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumnaAlimento;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumnaCantidad;
@@ -593,7 +586,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label23;
@@ -615,6 +607,17 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.Label lbTotalMenu;
+        private System.Windows.Forms.Label lbTOTAL;
+        private System.Windows.Forms.Label label30;
     }
 }

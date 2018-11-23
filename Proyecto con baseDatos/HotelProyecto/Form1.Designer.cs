@@ -1,6 +1,6 @@
 ﻿namespace HotelProyecto
 {
-    partial class Form1
+    partial class form1
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(form1));
             this.rbtnCheckOut = new System.Windows.Forms.RadioButton();
             this.rbtnCheckIn = new System.Windows.Forms.RadioButton();
             this.label3 = new System.Windows.Forms.Label();
@@ -58,6 +58,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.rdbMiHabitacion = new System.Windows.Forms.RadioButton();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -74,6 +75,7 @@
             this.rbtnCheckOut.TabIndex = 8;
             this.rbtnCheckOut.Text = "Entrega de habitación (Check-Out)";
             this.rbtnCheckOut.UseVisualStyleBackColor = true;
+            this.rbtnCheckOut.Click += new System.EventHandler(this.rbtnCheckOut_Click);
             // 
             // rbtnCheckIn
             // 
@@ -375,11 +377,24 @@
             this.pictureBox3.TabIndex = 25;
             this.pictureBox3.TabStop = false;
             // 
-            // Form1
+            // rdbMiHabitacion
+            // 
+            this.rdbMiHabitacion.AutoSize = true;
+            this.rdbMiHabitacion.Font = new System.Drawing.Font("Segoe Print", 10F);
+            this.rdbMiHabitacion.Location = new System.Drawing.Point(252, 290);
+            this.rdbMiHabitacion.Name = "rdbMiHabitacion";
+            this.rdbMiHabitacion.Size = new System.Drawing.Size(165, 28);
+            this.rdbMiHabitacion.TabIndex = 26;
+            this.rdbMiHabitacion.Text = "Control habitacion ";
+            this.rdbMiHabitacion.UseVisualStyleBackColor = true;
+            this.rdbMiHabitacion.CheckedChanged += new System.EventHandler(this.rdbMiHabitacion_CheckedChanged);
+            // 
+            // form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(666, 609);
+            this.Controls.Add(this.rdbMiHabitacion);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label24);
             this.Controls.Add(this.label26);
@@ -399,8 +414,8 @@
             this.Controls.Add(this.label25);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox3);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "form1";
+            this.Text = "Recepción";
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
@@ -441,6 +456,7 @@
         private System.Windows.Forms.Label label32;
         private System.Windows.Forms.Label label33;
         private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.RadioButton rdbMiHabitacion;
     }
 }
 

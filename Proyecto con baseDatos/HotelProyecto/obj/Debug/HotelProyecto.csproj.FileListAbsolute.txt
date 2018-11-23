@@ -86,3 +86,23 @@ C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\Hot
 C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csproj.CopyComplete
 C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.exe
 C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csprojAssemblyReference.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.BaseDatos.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.Form2.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.FormCheck_In.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.FormMenú.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.FormTarjeta.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.Properties.Resources.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csproj.GenerateResource.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\bin\Debug\Habitaciones.mdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\bin\Debug\HotelProyecto.exe.config
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\bin\Debug\HotelProyecto.exe
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\bin\Debug\HotelProyecto.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\bin\Debug\LibMonedad.dll
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\bin\Debug\LibMonedad.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.csproj.CopyComplete
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.ControlDeHabitaciones.resources
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\HotelProyecto\obj\Debug\HotelProyecto.form1.resources

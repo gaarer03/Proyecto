@@ -55,6 +55,30 @@ namespace HotelProyecto
 
         private void btnPagarMoneda_Click(object sender, EventArgs e)
         {
+            string nombMoneda = cmbMoneda.Text.ToString();
+            int i = 0;
+            float valor = 0;
+            bool bandera = false;
+            while (bandera == false)
+            {
+                if (monedas[i].Nombre == nombMoneda)
+                {
+                    valor = monedas[i].Valor;
+                    bandera = true;
+                }
+                i++;
+            }
+            float monedacambio = valor * int.Parse(txtbCantidadMon.Text);
+            lbCambiodeMoneda.Text = monedacambio.ToString();
+
+            float cambio = monedacambio - int.Parse(lbTotalPagar.Text);
+            lbCambio.Text = cambio.ToString();
+        }
+
+        private void btnPago_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("... \n\n Transacción finalizada \n\n ¡Gracias!");
+            this.Close();
 
         }
     }

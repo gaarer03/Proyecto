@@ -118,37 +118,58 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\menu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bienvenidos (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bienvenidos (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="gracias" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gracias.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="18028471-menú-plantilla-de-diseño" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\18028471-menú-plantilla-de-diseño.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bienvenidos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bienvenidos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="menu-macelleria1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu-macelleria1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hotel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hotel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="depositphotos_61355961-stock-illustration-menu-template" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\depositphotos_61355961-stock-illustration-menu-template.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="kisspng-beach-cartoon-stock-illustration-clip-art-beach-beach-5a84cdd19b7536.6658667615186528816368" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kisspng-beach-cartoon-stock-illustration-clip-art-beach-beach-5a84cdd19b7536.6658667615186528816368.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gracias" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gracias.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="41iHuC56O5L._SX425_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\41iHuC56O5L._SX425_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="a5543288429d4df28f62ecef492efcf3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a5543288429d4df28f62ecef492efcf3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="habitacion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\habitacion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="elipse-rojo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\elipse-rojo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="41iHuC56O5L._SX425_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\41iHuC56O5L._SX425_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="caja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\caja.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="menu-macelleria1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\menu-macelleria1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="kisspng-beach-cartoon-stock-illustration-clip-art-beach-beach-5a84cdd19b7536.6658667615186528816368" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-beach-cartoon-stock-illustration-clip-art-beach-beach-5a84cdd19b7536.6658667615186528816368.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="calma-737447" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\calma-737447.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bienvenidos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bienvenidos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bienvenidos (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bienvenidos (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="30717c499c1b457c0864838a3d575ab5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\30717c499c1b457c0864838a3d575ab5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tipomonedas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tipomonedas.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="habitacion1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\habitacion1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

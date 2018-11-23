@@ -49,11 +49,17 @@
     </Compile>
     <Compile Include="Bebida.cs" />
     <Compile Include="Cliente.cs" />
-    <Compile Include="Check out.cs">
+    <Compile Include="FormCheck-Out.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Check out.Designer.cs">
-      <DependentUpon>Check out.cs</DependentUpon>
+    <Compile Include="FormCheck-Out.Designer.cs">
+      <DependentUpon>FormCheck-Out.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlHabitacion.Designer.cs">
+      <DependentUpon>ControlHabitacion.cs</DependentUpon>
     </Compile>
     <Compile Include="FormMenú.cs">
       <SubType>Form</SubType>
@@ -92,11 +98,15 @@
     <Compile Include="NumPersonas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TipoHabitacion.cs" />
     <EmbeddedResource Include="BaseDatos.resx">
       <DependentUpon>BaseDatos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Check out.resx">
-      <DependentUpon>Check out.cs</DependentUpon>
+    <EmbeddedResource Include="FormCheck-Out.resx">
+      <DependentUpon>FormCheck-Out.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlHabitacion.resx">
+      <DependentUpon>ControlHabitacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormCheck-In.resx">
       <DependentUpon>FormCheck-In.cs</DependentUpon>
@@ -181,10 +191,17 @@
     <Content Include="Habitaciones.mdb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\habitacion1.png" />
+    <None Include="Resources\calma-737447.jpg" />
+    <None Include="Resources\30717c499c1b457c0864838a3d575ab5.jpg" />
+    <None Include="Resources\habitacion.png" />
+    <None Include="Resources\hotel.png" />
+    <None Include="Resources\tipomonedas.PNG" />
+    <None Include="Resources\caja.PNG" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Proyecto 3.2 UuUr\Proyecto 3.0\LibMoneda\LibMoneda.csproj">
-      <Project>{ac08c0da-d32b-4fa7-9320-fd90ec5c7fba}</Project>
+    <ProjectReference Include="..\LibMonedad\LibMoneda.csproj">
+      <Project>{b9732847-15c9-4784-9e0e-fd1b09a1916e}</Project>
       <Name>LibMoneda</Name>
     </ProjectReference>
   </ItemGroup>

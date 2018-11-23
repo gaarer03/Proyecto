@@ -1,0 +1,6 @@
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\LibMonedad\bin\Debug\LibMonedad.dll
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\LibMonedad\bin\Debug\LibMonedad.pdb
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\LibMonedad\obj\Debug\LibMoneda.csprojAssemblyReference.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\LibMonedad\obj\Debug\LibMoneda.csproj.CoreCompileInputs.cache
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\LibMonedad\obj\Debug\LibMonedad.dll
+C:\Users\Aarón Gaona\Desktop\Proyecto con baseDatos(1)\Proyecto con baseDatos\LibMonedad\obj\Debug\LibMonedad.pdb

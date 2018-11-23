@@ -73,6 +73,16 @@ namespace HotelProyecto.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _30717c499c1b457c0864838a3d575ab5 {
+            get {
+                object obj = ResourceManager.GetObject("30717c499c1b457c0864838a3d575ab5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _41iHuC56O5L__SX425_ {
             get {
                 object obj = ResourceManager.GetObject("41iHuC56O5L._SX425_", resourceCulture);
@@ -113,6 +123,26 @@ namespace HotelProyecto.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap caja {
+            get {
+                object obj = ResourceManager.GetObject("caja", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap calma_737447 {
+            get {
+                object obj = ResourceManager.GetObject("calma-737447", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap depositphotos_61355961_stock_illustration_menu_template {
             get {
                 object obj = ResourceManager.GetObject("depositphotos_61355961-stock-illustration-menu-template", resourceCulture);
@@ -136,6 +166,36 @@ namespace HotelProyecto.Properties {
         internal static System.Drawing.Bitmap gracias {
             get {
                 object obj = ResourceManager.GetObject("gracias", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap habitacion {
+            get {
+                object obj = ResourceManager.GetObject("habitacion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap habitacion1 {
+            get {
+                object obj = ResourceManager.GetObject("habitacion1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hotel {
+            get {
+                object obj = ResourceManager.GetObject("hotel", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -167,6 +227,16 @@ namespace HotelProyecto.Properties {
         internal static System.Drawing.Bitmap menu_macelleria1 {
             get {
                 object obj = ResourceManager.GetObject("menu-macelleria1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tipomonedas {
+            get {
+                object obj = ResourceManager.GetObject("tipomonedas", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
